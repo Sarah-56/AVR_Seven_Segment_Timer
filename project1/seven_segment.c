@@ -2,7 +2,7 @@
  * seven_segment.c
  *
  *  Created on: Feb 2, 2021
- *      Author: Sarah Mohamed Ahmed Ahmed Ibrahim
+ *      Author: Sarah Hejazy
  */
 
 #include <avr/io.h>
